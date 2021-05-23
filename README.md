@@ -1,8 +1,5 @@
-![Visitors](https://badges.pufler.dev/visits/saurabhiam/saurabhiam?style=flat-square) ![Years Badge](https://badges.pufler.dev/years/saurabhiam?style=flat-square)
+![Years Badge](https://badges.pufler.dev/years/saurabhiam?style=flat-square)
 ![Repos Badge](https://badges.pufler.dev/repos/saurabhiam?style=flat-square)
-
-
-
 
 # Hello, nerds
 
